@@ -1,0 +1,32 @@
+/* #hello{
+  background-color: aqua;
+} */
+
+#nav{
+  background-color: aqua;
+  width: 20%;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: left;
+  /* padding: 20px; */
+  border-radius: 7px;
+  padding-top: 5px;
+  padding-left: 100px;
+  padding-bottom: 40px;
+  border: black;
+  border-width: 2%;
+ 
+}
+#main{
+  width: 30%;
+  background-color:burlywood;
+  border-radius: 7px;
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding-top: 40px;
+  padding-left: 100px;
+  padding-bottom: 40px;
+  border: black;
+
+}
